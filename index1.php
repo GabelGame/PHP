@@ -1,5 +1,5 @@
 <?php
-//Типы данных
+
 $bool = true;
 $bool2 = false;
 $int =0;
@@ -17,8 +17,6 @@ var_dump((int)"10hello");
 var_dump((int)"hello10");
 
 var_dump("10" + 20);
-// var_dump("10hello" + 20);
-// var_dump("hello10" + 20);
 
 var_dump(1.234);
 var_dump((float)1234);
